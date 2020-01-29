@@ -1,1 +1,1 @@
-This is my 0x03.Git project
+This is my 0x03.Git project With commit message "Starting to code today, so cool"
